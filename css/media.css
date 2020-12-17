@@ -1,0 +1,729 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo{
+    width: 23% !important;
+}
+.menu {
+    background-color: transparent;
+}
+.menu ul li a {
+    font-size: 12px;
+}
+/*header end*/
+.c-toggler {
+    background-color: #e1b838;
+}
+/*banner start*/
+.c-caption {
+    right: 30%;
+    left: 30%;
+    width: auto;
+}
+.h h1 {
+    font-size: 13px;
+}
+.h h2 {
+    font-size: 11px;
+}
+.c-caption p {
+    margin-top: 9px;
+    font-size: 8px;
+    font-weight: 700;
+    margin-bottom: -10px;
+}
+.arrow {
+    bottom: 0;
+    top: 84%;
+    width: 75%;
+}
+.c-ind li {
+    width: 7px;
+    height: 7px;
+    margin-bottom: -13px;
+}
+/*banner end*/
+/*menu start*/
+.f-menu {
+    margin-top: 30px;
+}
+.f-menu-1 {
+    margin-bottom: -17%;
+}
+.f-menu-2 {
+    height: 60%;
+}
+.f-menu-3 {
+    margin-top: -5%;
+}
+.c-1 {
+    margin: 0%;
+}
+.c-h {
+    font-size: 20px;
+}
+.ir {
+    font-size: 14px;
+    padding: 3px 6px;
+}
+
+/*menu end*/
+/*service-1 start*/
+.service_1 {
+    margin-top: 35px;
+}
+.c2-s-1 {
+    text-align: center;
+}
+.c3-s-1 {
+    margin-top: 18px;
+    text-align: left;
+    padding-left: 0%;
+    margin-bottom: 0px;
+}
+.h1-s1 {
+    font-size: 21px;
+}
+.c-btn {
+    margin-bottom: 10px;
+    width: 30%;
+    font-size: 14px;
+}
+.c4-s-1 {
+    width: 25%;
+    margin-bottom: 15px;
+}
+/*service-1 end*/
+/*service-2 start*/
+.service_2 {
+    margin-top: 25px;
+    max-height: 375px;
+}
+.s-2-c3 {
+    margin: 0px 0px;
+}
+.s-2-c1 h1 {
+    font-size: 22px;
+ 
+}
+.s-2-c1 h2 {
+    padding: 1%;
+    font-size: 20px;
+}
+.s-2-c4 {
+    margin-top: 15px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+}
+/*service-2 end*/
+/*service-3 start*/
+.service-3 {
+    margin-top: 20px;
+}
+.s3-c1 {
+    margin-top: 0%;
+    padding: 0;
+}
+.s3-c1 h1 {
+    font-size: 26px;
+    text-align: center;
+}
+.s3-c1 p {
+    font-size: 16px;
+    word-spacing: 1px;
+    padding: 1%;
+    text-align: center;
+}
+/*service-3 end*/
+/*service-4 start*/
+.s4-c1 {
+    width: 60%;
+}
+.s4-c1 h1 {
+    font-size: 23px;
+}
+.s4-c1 h2 {
+    text-align: center;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 0px 20px;
+}
+.s4-c2 p {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 5%;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-left: 0px;
+}
+/*service-4 end*/
+/*service-5 start*/
+.s5-c {
+    margin-top: 40px;
+}
+.s5-c1 {
+    width: 35%;
+    height: auto;
+    text-align: center;
+}
+.s5-c2 {
+    width: 85%;
+    text-align: center;
+    margin-top: 15px;
+}
+/*service-5 end*/
+/*footer*/
+.f-c-1 {
+    width: 140%;
+}
+.f-c-1 h1 {
+    font-size: 22px;
+}
+.f-c-1 h3 {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0;
+}
+.f-3 {
+    margin-top: 20px;
+    margin-left: 6%;
+    font-size: 95%;
+    line-height: 28px;
+    /* font-weight: 300; */
+}
+.f-3 ul li {
+    font-weight: 400;
+}
+.f-4 {
+    font-size: 82%;
+    margin-top: 5px;
+    padding: 0;
+}
+.f-4 ul li {
+    margin-left: 3px;
+}
+/*footer*/
+}
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo{
+    width: 20% !important;
+
+}
+.menu {
+    background-color: transparent;
+
+}
+.menu ul li a {
+    font-size: 15px ;
+    padding: 0px 10px !important;
+    text-align: end ;
+}
+.c-toggler {
+    background-color: #e1b838;
+}
+/*header end*/
+/*banner start*/
+.c-caption {
+    width: 26%;
+}
+.h h1 {
+    font-size: 16px;
+}
+.h h2 {
+    font-size: 15px;
+}
+.c-caption p {
+    margin-top: 17px;
+    font-size: 10px;
+}
+.arrow {
+    top: 76%;
+    width: 83%;
+
+}
+.c-ind li {
+    width: 10px;
+    height: 10px;
+}
+/*banner end*/
+/*menu start*/
+.f-menu {
+    margin-top: 40px;
+}
+.f-menu-2 {
+    height: 70%;
+}
+.f-menu-3 {
+    margin-top: -5%;
+}
+.c-1{
+    margin: 4%;
+}
+.ir {
+    font-size: 16px;
+}
+
+/*menu end*/
+/*service-1 start*/
+.service_1 {
+    margin-top: 50px;
+}
+.c2-s-1 {
+    text-align: center;
+}
+.c3-s-1 {
+    margin-top: 25px;
+    text-align: left;
+    padding-left: 0%;
+    margin-bottom: 0px; 
+}
+.h1-s1 {
+    font-size: 35px;
+}
+.c-btn {
+    margin-bottom: 25px;
+    width: 35%;
+    font-size: 22px;
+}
+.c4-s-1 {
+    width: 25%;
+    margin-bottom: 20px;
+}
+/*service-1 end*/
+/*service-2 start*/
+.service_2 {
+    margin-top: 40px;
+    max-height: 480px;
+}
+.s-2-c3 {
+    margin: 0px 0px;
+}
+.s-2-c1 h1 {
+    font-size: 28px;
+}
+.s-2-c1 h2 {
+    padding: 1%;
+    font-size: 26px;
+}
+.s-2-c4 {
+    margin-top: 20px;
+    font-size: 17px;
+}
+/*service-2 end*/
+/*service-3 start*/
+.service-3 {
+    margin-top: 40px;
+}
+.s3-c1 {
+    margin-top: 10%;
+    padding: 0;
+    border: 2px solid #e1b838;
+}
+.s3-c2{
+    justify-content: center;
+}
+.s3-c1 h1 {
+    text-align: center;
+}
+.s3-c1 p {
+    font-size: 18px;
+    word-spacing: 2px;
+    padding: 2%;
+}
+/*service-3 end*/
+/*service-4 start*/
+.s4-c1 h1 {
+    font-size: 25px;
+}
+.s4-c1 h2 {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 15px;
+    margin-bottom: 0;
+}
+.s4-c2 p {
+    font-size: 18px;
+    margin-top: 10%;
+    letter-spacing: 0px;
+    line-height: 23px;
+    margin-left: 24px;
+}
+/*service-4 end*/
+/*service-5 start*/
+.s5-c {
+    margin-top: 50px;
+}
+.s5-c1 {
+    width: 30%;
+    height: 100%;
+    text-align: center;
+}
+.s5-c2 {
+    height: 55%;
+    margin-top: 20px;
+}
+
+/*service-5 end*/
+/*footer */
+.f-c-1 h1 {
+    font-size: 28px;
+}
+.f-c-1 h3 {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0;
+}
+.f-3 {
+    font-size: 15px;
+    line-height: 35px;
+}
+.f-4 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.f-4 ul li {
+    margin-left: 10px;
+}
+/*footer */
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.logo{
+    width: 20% !important;
+}
+.menu {
+    background-color: transparent;
+}
+.menu ul li a {
+    font-size: 15px ;
+    padding: 0px 10px !important;
+    text-align: end ;
+}
+.c-toggler {
+    background-color: #e1b838;
+}
+/*header end*/
+/*banner start*/
+.c-caption{
+    right: 39%; 
+    left: 39%;
+    text-align: center;
+    width: unset;
+}
+.h h1 {
+    font-size: 18px;
+}
+.h h2 {
+    font-size: 16px;
+}
+.c-caption p {
+    font-size: 11px;
+
+}
+.c-ind li {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    margin-bottom: -11px;
+    background-color: black;
+    border: 3px solid #e1b838;
+}
+.arrow {
+    top: 89%;
+    width: 88%;
+
+}
+/*menu start*/
+.f-menu {
+    margin-top: 40px;
+}
+.f-menu-2 {
+    height: 75%;
+}
+.f-menu-3 {
+    margin-top: -5%;
+}
+.c-1 {
+    margin-bottom: 30px;
+}
+.c-h {
+    font-size: 22px;
+}
+.ir {
+    font-size: 13px;
+    padding: 3px 9px;
+}
+/*menu end*/
+/*banner end*/
+/*service-1 start*/
+.service_1 {
+    margin-top: 60px;
+}
+.c3-s-1 {
+    padding-left: 14%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.h1-s1 {
+    font-size: 26px;
+}
+.c-btn {
+    margin-bottom: 22px;
+    width: 55%;
+    font-size: 20px;
+}
+.c4-s-1 {
+    width: 45%;
+}
+/*service-1 end*/
+/*service-2 start*/
+.service_2 {
+    margin-top: 60px;
+    max-height: 450px;
+}
+.s-2-c3 {
+    margin: 0px 30px;
+}
+.s-2-c1 h1 {
+    font-size: 20px;
+}
+.s-2-c1 h2 {
+    padding: 6%;
+    font-size: 20px;
+}
+.s-2-c4 {
+    font-size: 14px;
+}
+/*service-2 end*/
+/*service-3 start*/
+.service-3 {
+    margin-top: 60px;
+}
+.s3-c1 p {
+    font-size: 20px;
+    word-spacing: 4px;
+    padding: 2%;
+}
+
+/*service-3 end*/
+/*service-4 start*/
+.s4-c1 h1 {
+    font-size: 30px;
+}
+.s4-c1 h2 {
+    padding: 0;
+    font-size: 26px;
+    line-height: 40px;
+    
+}
+.s4-c2 p {
+    margin-left: 40px;
+    margin-top: 20%;
+    font-size: 20px;
+    padding-left: 0px;
+    line-height: 25px;
+    
+}
+
+/*service-4 end*/
+/*footer */
+.f-c-1 h3{
+    font-size: 20px;
+}
+.f-3 {
+    font-size: 17px;
+}
+.f-4 {
+    font-size: 22px;
+}
+/*footer */
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.logo{
+    width: 20%;
+    margin-right: 0px;
+}
+.menu {
+    width: 76%;
+
+}
+.menu ul li a {
+    font-size: 25px;
+    padding: 0 28px !important;
+}
+/*header end*/
+
+/*banner start*/
+.c-caption{
+     right: 39%; 
+    left: 39%;
+    text-align: center;
+    width: unset;
+}
+.h h1 {
+    font-size: 24px;
+}
+.h h2 {
+    font-size: 22px;
+}
+.c-caption p {
+    font-size: 14px;
+}
+.c-ind li {
+    margin-bottom: -10px;
+
+}
+/*banner end*/
+/*menu start*/
+.f-menu {
+    margin-top: 70px;
+}
+.f-menu-2 {
+    height: 90%;
+}
+.ir {
+    font-size: 20px;
+}
+.c-h {
+    font-size: 32px;
+}
+/*menu end*/
+/*service-1 start*/
+.h1-s1 {
+    font-size: 33px;
+}
+.c-btn {
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+.c4-s-1 {
+    width: 40%;
+}
+/*service-1 end*/
+/*service-2 start*/
+.service_2 {
+    margin-top: 85px;
+    max-height: 600px;
+    
+}
+.s-2-c3 {
+    margin: 0px 40px;
+}
+.s-2-c1 h1 {
+    font-size: 29px;
+}
+.s-2-c1 h2 {
+    padding: 5%;
+    font-size: 26px;
+}
+.s-2-c4 {
+    font-size: 17px;
+/*service-2 end*/
+}
+
+
+
+/*Exttra large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*header start*/ 
+.logo {
+    width: 16% !important;
+}
+
+.menu {
+    width: auto;
+    border: 1px solid #e1b838;
+
+}
+.menu ul li a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: #e1b838 !important;
+    font-weight: 400;
+    padding: 0 35px !important;
+}
+/*header end*/
+/*bnner start*/
+.h h2 {
+    font-size: 28px;
+}
+.c-caption p {
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.c-ind li {
+    margin-bottom: -5px;
+
+}
+/*bnner end*/
+/*service-1 start*/
+.c3-s-1 {
+    padding-left: 20%;
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+.c4-s-1 {
+    width: 45%;
+}
+/*service-1 end*/
+/*service-4 start*/
+.s4-c1 {
+    width: 27%;
+}
+.s4-c h2{
+    font-size: 30px !important;
+    padding: 0px 50px !important;
+}
+/*service-4 end*/
+/*footer*/
+/*footer*/
+}
+
+
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+/*header start*/
+.logo {
+    width: 16% !important;
+}
+
+.menu {
+    width: auto;
+    border: 1px solid #e1b838;
+
+}
+.menu ul li a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: #e1b838 !important;
+    font-weight: 400;
+    padding: 0 35px !important;
+}
+/*header end*/
+/*service-2 start*/
+.s4-c1 h2 {
+    font-size: 35px;
+    padding: 0 29px;
+}
+
+/*service-2  end*/
+}
